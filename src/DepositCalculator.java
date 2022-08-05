@@ -1,3 +1,5 @@
+// Все отлично. На код приятно смотреть, все понятно. Благодаря этому коду понял некоторые свои ошибки:)
+
 import java.util.Scanner;
 
 public class DepositCalculator {
